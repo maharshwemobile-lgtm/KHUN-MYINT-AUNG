@@ -1,0 +1,15 @@
+{
+  "selected_hosting": "GitHub Pages",
+  "deployment_steps": {
+    "step_1": "GitHub အကောင့်ထဲမှာ Repository အသစ်တစ်ခု ဆောက်ပါ (ဥပမာ- khun-service-profile)။",
+    "step_2": "သင့်ရဲ့ 'knowledge-base/html/khun-myint-aung.html' ဖိုင်ကို 'index.html' လို့ အမည်ပြောင်းပါ။",
+    "step_3": "အဆိုပါ index.html ကို GitHub Repository ထဲသို့ Upload တင်ပါ။",
+    "step_4": "Settings > Pages ထဲကိုသွားပြီး Build and deployment အောက်က Branch နေရာမှာ 'main' ကို ရွေးပြီး Save လုပ်ပါ။",
+    "step_5": "မိနစ်အနည်းငယ်အတွင်း သင့်ရဲ့ URL (ဥပမာ- https://username.github.io/khun-service-profile) မှာ Live ဖြစ်သွားပါလိမ့်မယ်။"
+  },
+  "advantages": {
+    "security": "SSL (HTTPS) အခမဲ့ ပါဝင်သောကြောင့် Safe ဖြစ်ခြင်း။",
+    "speed": "Global CDN သုံးထားသောကြောင့် ဖုန်းနဲ့ဝင်ကြည့်ချိန်တွင် အလွန်မြန်ခြင်း။",
+    "branding": "Professional ကျသော URL ရရှိခြင်း။"
+  }
+}
